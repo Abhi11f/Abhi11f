@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Abhi11f
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on 11\03\2025
-- 📫 How to reach me _ right now no need to reach me
+- 🌱 I’m currently learning c/c++ , Python & wev Devlopment
+- 💞️ I’m looking to collaborate on 11\03\2026
+- 📫 How to reach me _@y_abhishhh11
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I thinks differently.
+- ⚡ Fun fact: I think differently.
 
 <!---
 Abhi11f/Abhi11f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
